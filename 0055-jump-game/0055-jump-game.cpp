@@ -1,45 +1,24 @@
 class Solution {
-public:
-    bool canJump(vector<int>& nums) {
-        int maxReach = 0;
+    int max_val = 0;
 
-        for (int i = 0; i < nums.size(); i++) {
-            // If current index is beyond our maximum reachable index
-            if (i > maxReach)
-                return false;
-
-            // Update the furthest reachable index
-            maxReach = max(maxReach, i + nums[i]);
-
-            // If we can already reach or pass the last index
-            if (maxReach >= nums.size() - 1)
-                return true;
+    bool solve(vector<int> &nums,int ind)
+    {
+        if(max_val >= nums.size() -1)
+        {
+            return true;
         }
 
-        return true;
+        if(ind > max_val)
+        {
+            return false;
+        }
+
+        max_val = max(max_val , nums[ind]+ind);
+        return solve(nums,ind+1);
+    }
+public:
+    bool canJump(vector<int>& nums) {
+        return solve(nums,0);
     }
 };
 
-// class Solution {
-// public:
-//     bool canJump(vector<int>& nums) {
-//         int max_val = 0;
-//         bool ans = false;
-//         for(int i : nums)
-//         {
-//             if(i > max_val)
-//             {
-//                 max_val = i;
-//             }
-//             if (i<max_val)
-//             {
-//                 ans = false;
-//             }
-//             if(max_val > nums.size())
-//             {
-//                 ans = true;
-//             }
-//         }
-//         return ans;
-//     }
-// };
