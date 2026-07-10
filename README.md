@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
