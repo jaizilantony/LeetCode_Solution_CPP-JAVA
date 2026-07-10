@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
