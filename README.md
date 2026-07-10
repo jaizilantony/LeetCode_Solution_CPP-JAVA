@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0200-number-of-islands) |
@@ -60,10 +61,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0055-jump-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
