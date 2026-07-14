@@ -69,9 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0055-jump-game) |
+| [1323-maximum-69-number](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1323-maximum-69-number) |
 | [2027-minimum-moves-to-convert-string](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/2027-minimum-moves-to-convert-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
