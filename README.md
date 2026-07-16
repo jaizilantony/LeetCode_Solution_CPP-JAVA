@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0118-pascals-triangle) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1323-maximum-69-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
