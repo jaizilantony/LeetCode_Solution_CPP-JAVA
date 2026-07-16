@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0184-department-highest-salary) |
 | [1068-product-sales-analysis-i](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Dynamic Programming
