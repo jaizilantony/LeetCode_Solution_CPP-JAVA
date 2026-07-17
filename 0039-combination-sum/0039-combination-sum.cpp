@@ -52,7 +52,7 @@ class Solution {
             vector<int> curr = temp;
             sort(curr.begin(), curr.end());
 
-            if (hs.find(curr) == hs.end()) {
+            if (!hs.contains(curr)) {
                 hs.insert(curr);
                 ans.push_back(curr);
             }
