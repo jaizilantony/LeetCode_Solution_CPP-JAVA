@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0463-island-perimeter) |
+| [1260-shift-2d-grid](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0463-island-perimeter) |
+| [1260-shift-2d-grid](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1260-shift-2d-grid) |
 ## Database
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0046-permutations) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
