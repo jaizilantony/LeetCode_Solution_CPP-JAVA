@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0130-surrounded-regions) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0200-number-of-islands) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0207-course-schedule) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
