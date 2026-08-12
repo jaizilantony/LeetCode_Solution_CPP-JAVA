@@ -125,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0089-gray-code) |
 | [1323-maximum-69-number](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1323-maximum-69-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0073-set-matrix-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
