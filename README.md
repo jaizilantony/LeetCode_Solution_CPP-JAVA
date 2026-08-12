@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0020-valid-parentheses) |
+| [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
 | [2027-minimum-moves-to-convert-string](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/2027-minimum-moves-to-convert-string) |
 ## Stack
 |  |
@@ -153,8 +154,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0073-set-matrix-zeroes) |
+| [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0089-gray-code) |
+| [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
