@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0303-range-sum-query-immutable) |
 | [0463-island-perimeter](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0463-island-perimeter) |
 | [0724-find-pivot-index](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0733-flood-fill) |
@@ -184,5 +185,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0724-find-pivot-index) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
