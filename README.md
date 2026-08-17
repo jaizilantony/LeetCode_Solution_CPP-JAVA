@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0020-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
 | [2027-minimum-moves-to-convert-string](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/2027-minimum-moves-to-convert-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
 ## Bit Manipulation
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
 ## Rolling Hash
 |  |
