@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0185-department-top-three-salaries) |
 | [0596-classes-with-at-least-5-students](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0610-triangle-judgement) |
