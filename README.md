@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0303-range-sum-query-immutable) |
 | [0463-island-perimeter](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1260-shift-2d-grid) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -82,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1260-shift-2d-grid) |
 ## Database
