@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0198-house-robber) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0089-gray-code) |
 ## Simulation
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
