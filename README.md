@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/1260-shift-2d-grid) |
+| [3364-minimum-positive-sum-subarray](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0187-repeated-dna-sequences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/3364-minimum-positive-sum-subarray) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/0724-find-pivot-index) |
+| [3364-minimum-positive-sum-subarray](https://github.com/jaizilantony/LeetCode_Solution_CPP/tree/master/3364-minimum-positive-sum-subarray) |
 ## Design
 |  |
 | ------- |
